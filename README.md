@@ -13,8 +13,10 @@
 
 ## 🛠️ Tech Stack
 - 📊 Power BI (DAX, Data Visualization)
+- 🐍 Python (Pandas, NumPy, Data Analysis)
 - 🗄️ SQL (Data Querying)
 - 📑 Excel (Data Cleaning & Analysis)
+  
 ---
 
 ## 📈 What I'm Working On
